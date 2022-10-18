@@ -1,0 +1,20 @@
+C:\Users\Barış\source\repos\201913709044_Ekin_Burcu_Demir\bin\Debug\201913709044_Ekin_Burcu_Demir.exe.config
+C:\Users\Barış\source\repos\201913709044_Ekin_Burcu_Demir\bin\Debug\201913709044_Ekin_Burcu_Demir.exe
+C:\Users\Barış\source\repos\201913709044_Ekin_Burcu_Demir\bin\Debug\201913709044_Ekin_Burcu_Demir.pdb
+C:\Users\Barış\source\repos\201913709044_Ekin_Burcu_Demir\obj\Debug\201913709044_Ekin_Burcu_Demir.csprojAssemblyReference.cache
+C:\Users\Barış\source\repos\201913709044_Ekin_Burcu_Demir\obj\Debug\_201913709044_Ekin_Burcu_Demir.Form1.resources
+C:\Users\Barış\source\repos\201913709044_Ekin_Burcu_Demir\obj\Debug\_201913709044_Ekin_Burcu_Demir.Properties.Resources.resources
+C:\Users\Barış\source\repos\201913709044_Ekin_Burcu_Demir\obj\Debug\201913709044_Ekin_Burcu_Demir.csproj.GenerateResource.cache
+C:\Users\Barış\source\repos\201913709044_Ekin_Burcu_Demir\obj\Debug\201913709044_Ekin_Burcu_Demir.csproj.CoreCompileInputs.cache
+C:\Users\Barış\source\repos\201913709044_Ekin_Burcu_Demir\obj\Debug\201913709044_Ekin_Burcu_Demir.exe
+C:\Users\Barış\source\repos\201913709044_Ekin_Burcu_Demir\obj\Debug\201913709044_Ekin_Burcu_Demir.pdb
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\201913709044_Ekin_Burcu_Demir\bin\Debug\201913709044_Ekin_Burcu_Demir.exe.config
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\201913709044_Ekin_Burcu_Demir\bin\Debug\201913709044_Ekin_Burcu_Demir.exe
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\201913709044_Ekin_Burcu_Demir\bin\Debug\201913709044_Ekin_Burcu_Demir.pdb
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\201913709044_Ekin_Burcu_Demir\obj\Debug\201913709044_Ekin_Burcu_Demir.csprojAssemblyReference.cache
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\201913709044_Ekin_Burcu_Demir\obj\Debug\_201913709044_Ekin_Burcu_Demir.Form1.resources
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\201913709044_Ekin_Burcu_Demir\obj\Debug\_201913709044_Ekin_Burcu_Demir.Properties.Resources.resources
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\201913709044_Ekin_Burcu_Demir\obj\Debug\201913709044_Ekin_Burcu_Demir.csproj.GenerateResource.cache
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\201913709044_Ekin_Burcu_Demir\obj\Debug\201913709044_Ekin_Burcu_Demir.csproj.CoreCompileInputs.cache
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\201913709044_Ekin_Burcu_Demir\obj\Debug\201913709044_Ekin_Burcu_Demir.exe
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\201913709044_Ekin_Burcu_Demir\obj\Debug\201913709044_Ekin_Burcu_Demir.pdb
